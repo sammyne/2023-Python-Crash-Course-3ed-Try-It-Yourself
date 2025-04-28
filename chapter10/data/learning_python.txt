@@ -1,0 +1,2 @@
+In Python you can loop through list.
+In Python you can read files.
